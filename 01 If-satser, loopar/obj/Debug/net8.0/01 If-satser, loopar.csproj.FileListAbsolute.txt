@@ -1,0 +1,15 @@
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.AssemblyInfoInputs.cache
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.AssemblyInfo.cs
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.csproj.CoreCompileInputs.cache
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.sourcelink.json
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\bin\Debug\net8.0\01 If-satser, loopar.exe
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\bin\Debug\net8.0\01 If-satser, loopar.deps.json
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\bin\Debug\net8.0\01 If-satser, loopar.runtimeconfig.json
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\bin\Debug\net8.0\01 If-satser, loopar.dll
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\bin\Debug\net8.0\01 If-satser, loopar.pdb
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.dll
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\refint\01 If-satser, loopar.dll
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.pdb
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\01 If-satser, loopar.genruntimeconfig.cache
+C:\Users\alexovidiu.coroian\OneDrive - Academedia\Desktop\teknik 1\programmering\01 If-satser, loopar\01 If-satser, loopar\obj\Debug\net8.0\ref\01 If-satser, loopar.dll
